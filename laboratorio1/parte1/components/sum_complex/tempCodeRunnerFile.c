@@ -1,0 +1,1 @@
+Suma: %.2f + %.2fi\n", resultado.parte_real, resultado.parte_imaginaria);
